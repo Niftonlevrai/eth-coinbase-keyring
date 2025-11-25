@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # Coinbase Keyring
 
 ## The Keyring Class Protocol
